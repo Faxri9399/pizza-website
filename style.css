@@ -1,0 +1,250 @@
+.head {
+    margin: auto;
+    position: absolute;
+    max-width: 1340px;
+    /*width: 1340px;
+    height: 1191px;*/
+    background: #fff;
+}
+
+.head h1 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 150%;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #3C3B3B;
+    margin-top: 154px;
+}
+
+.head .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.head .container .text {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #3C3B3B;
+    margin-right: 184px;
+    margin-left: 87px;
+    padding-bottom: 82px;
+}
+
+.head .container .text p {
+    display: flex;
+    justify-content: space-between;
+}
+
+.head .container .image {
+    margin-left: 171px;
+    padding-bottom: 57px;
+}
+
+.head .head_2 {
+    display: flex;
+    margin-left: 104px;
+    width: 421.64px;
+    height: 60px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #3C3B3B;
+}
+
+.head .head_2 h4 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #3C3B3B;
+    }
+
+.head .head_2 span {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #3C3B3B;
+    padding-bottom: 7px;
+}
+
+.head .head_2 .head_2_left {
+    display: flex;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.head .head_2 .head_2_left p {
+    padding-left: 15px;
+    color: #1B567C;
+}
+
+.table {
+    position: absolute;
+    right: 0;
+    margin-right: 100px;
+    width: 680px;
+    height: 390px;
+}
+
+.table tr td:first-child {
+    text-align: center;
+    color: #fff;
+    width: 169.86px;
+    height: 52px;
+    background: #1B567C;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
